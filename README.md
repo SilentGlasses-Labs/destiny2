@@ -1,2 +1,2 @@
 # destiny2
-A personal sie to onboard new players and serve as a general reference site.
+A personal site to onboard new players and serve as a general reference site.
